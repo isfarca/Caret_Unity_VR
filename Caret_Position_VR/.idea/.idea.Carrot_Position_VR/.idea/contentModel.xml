@@ -6,7 +6,17 @@
     <e p="C:\Users\f.isfarca\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Carrot_Position_VR.1838171430.00" t="ExcludeRecursive" />
     <e p="C:\Users\f.isfarca\Documents\Carrot_Unity_VR\Carrot_Position_VR" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="UI" t="Include">
+            <e p="CaretCanvas.cs" t="Include" />
+          </e>
+        </e>
+      </e>
       <e p="Carrot_Position_VR.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

@@ -28,10 +28,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CarrotCanvas.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CaretCanvas.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="990">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+              <folding>
+                <marker date="1563006765094" expanded="true" signature="6:72" ph="..." />
+                <marker date="1563006765094" expanded="true" signature="114:1781" ph="{...}" />
+                <marker date="1563006765094" expanded="true" signature="370:438" ph="/// Input field click per code. ... " />
+                <marker date="1563006765094" expanded="true" signature="473:682" ph="{...}" />
+                <marker date="1563006765094" expanded="true" signature="688:750" ph="/// Default initializing. ... " />
+                <marker date="1563006765094" expanded="true" signature="775:866" ph="{...}" />
+                <marker date="1563006765094" expanded="true" signature="872:933" ph="/// Action initializing. ... " />
+                <marker date="1563006765094" expanded="true" signature="958:1139" ph="{...}" />
+                <marker date="1563006765094" expanded="true" signature="1145:1211" ph="/// Change UI element values. ... " />
+                <marker date="1563006765094" expanded="true" signature="1241:1342" ph="{...}" />
+                <marker date="1563006765094" expanded="true" signature="1348:1415" ph="/// Set random caret position. ... " />
+                <marker date="1563006765094" expanded="true" signature="1458:1779" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,16 +54,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CarrotCanvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CaretCanvas.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/CarrotCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CaretCanvas.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="25" />
     <option name="y" value="18" />
     <option name="width" value="1260" />
@@ -66,6 +81,17 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="UI" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -126,10 +152,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.500846" side_tool="true" weight="0.2497979" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.2497979" />
       <window_info id="Structure" order="1" sideWeight="0.500846" side_tool="true" weight="0.2497979" />
       <window_info anchor="bottom" id="NuGet" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -171,10 +196,24 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CarrotCanvas.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CaretCanvas.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="990">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+          <folding>
+            <marker date="1563006765094" expanded="true" signature="6:72" ph="..." />
+            <marker date="1563006765094" expanded="true" signature="114:1781" ph="{...}" />
+            <marker date="1563006765094" expanded="true" signature="370:438" ph="/// Input field click per code. ... " />
+            <marker date="1563006765094" expanded="true" signature="473:682" ph="{...}" />
+            <marker date="1563006765094" expanded="true" signature="688:750" ph="/// Default initializing. ... " />
+            <marker date="1563006765094" expanded="true" signature="775:866" ph="{...}" />
+            <marker date="1563006765094" expanded="true" signature="872:933" ph="/// Action initializing. ... " />
+            <marker date="1563006765094" expanded="true" signature="958:1139" ph="{...}" />
+            <marker date="1563006765094" expanded="true" signature="1145:1211" ph="/// Change UI element values. ... " />
+            <marker date="1563006765094" expanded="true" signature="1241:1342" ph="{...}" />
+            <marker date="1563006765094" expanded="true" signature="1348:1415" ph="/// Set random caret position. ... " />
+            <marker date="1563006765094" expanded="true" signature="1458:1779" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
