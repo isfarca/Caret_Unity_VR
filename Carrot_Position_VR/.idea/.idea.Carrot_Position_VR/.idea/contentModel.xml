@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\f.isfarca\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\f.isfarca\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\f.isfarca\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Carrot_Position_VR.1838171430.00" t="ExcludeRecursive" />
+    <e p="C:\Users\f.isfarca\Documents\Carrot_Unity_VR\Carrot_Position_VR" t="IncludeFlat">
+      <e p="Carrot_Position_VR.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
